@@ -1,0 +1,6 @@
+{
+  "name": "PropOS - NRI Property as a Service",
+  "description": "The trusted operating system and Property-as-a-Service (PaaS) platform for NRIs managing real estate assets in India.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
